@@ -1,0 +1,9 @@
+com\microservice\client\repo\ClientRepo.class
+com\microservice\client\service\ClientService.class
+com\microservice\client\model\TypeClient.class
+com\microservice\client\service\impl\ClientServiceImpl.class
+com\microservice\client\ClientServiceApplication.class
+com\microservice\client\model\Client.class
+com\microservice\client\model\Account.class
+com\microservice\client\controller\ClientController.class
+com\microservice\client\repo\WebClientRepo.class
